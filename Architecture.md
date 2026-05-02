@@ -29,7 +29,7 @@
 ## 9. General LLM fallback
 ## 10. Unified response service
 ## 11. API layer (FastAPI) - ingestion, chat
-## 12. Frontend (Next.js)
+## 12. Frontend (Next.js) - Not part of development yet
 ## 13. Enhancements
 ### 13.1 Metadata filtering
 ### 13.2 Multi-query retrieval
