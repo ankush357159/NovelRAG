@@ -1,4 +1,4 @@
-# Novel-RAG Backend
+# Novel-RAG
 
 Retrieval-Augmented Generation (RAG) backend for classic novels using FastAPI, ChromaDB, LangChain, and OpenAI.
 
