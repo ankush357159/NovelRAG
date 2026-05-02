@@ -6,7 +6,6 @@
     - Read each `.txt` file from `processed/`
     - Associate it with its metadata (from `metadata.json`)
     - Convert it into a Document abstraction
-### 2.2 Why this layer exists
     - Separates: file system concerns, NLP / embedding logic
     - This makes it easy later to: switch from local files → S3, add more novels without changing pipeline
 ## 3. Chunking
